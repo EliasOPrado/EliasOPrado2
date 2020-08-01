@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Elias Prado, a Developer 🚀 living in Ireland but from Brazil🇧🇷.
+## Hi, I'm Elias Prado, a Brazilian🇧🇷 Developer 🚀.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/

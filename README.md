@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Elias Prado, a Developer 🚀 living in Ireland but from Brazil.
+## Hi, I'm Elias Prado, a Developer 🚀 living in Ireland but from Brazil🇧🇷.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -22,12 +22,10 @@ You can use the website to generate badges: https://shields.io/
 - 👨🏽‍💻 I’m currently finishing my Code Institute course;
 - 🌱 I’m currently learning React.js and Django; 
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in civil engineering;
 - 📫 How to reach me: eliaspradoprofessional@outlook.com;
+- 🌎 🌍 Looking for a remote job. 
 
 **Languages and Tools:** 
 
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliasOPrado&layout=compact)](https://github.com/EliasOPrado/github-readme-stats)
 <p>

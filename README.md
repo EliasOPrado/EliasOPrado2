@@ -6,6 +6,7 @@ You can use the website to generate badges: https://shields.io/
 -->
 
 <!-- [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/EliasOPrado) -->
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=flat&logo=Follow%20%40cloudposse)](https://twitter.com/_0liver_Prad0)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elias-oliveira-prado-48725297/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/25mrprado25/)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:eliaspradoprofessional@outlook.com)
@@ -21,8 +22,8 @@ You can use the website to generate badges: https://shields.io/
 
 - 👨🏽‍💻 I’m currently finishing my Code Institute course;
 - 🌱 I’m currently learning React.js and Django; 
-- 💬 Ask me about anything, I am happy to help;
 - 🌎 🌍 Looking for a remote job. 
+- 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: eliaspradoprofessional@outlook.com;
 
 

@@ -22,8 +22,9 @@ You can use the website to generate badges: https://shields.io/
 - 👨🏽‍💻 I’m currently finishing my Code Institute course;
 - 🌱 I’m currently learning React.js and Django; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: eliaspradoprofessional@outlook.com;
 - 🌎 🌍 Looking for a remote job. 
+- 📫 How to reach me: eliaspradoprofessional@outlook.com;
+
 
 **Languages and Tools:** 
 

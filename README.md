@@ -29,7 +29,7 @@ You can use the website to generate badges: https://shields.io/
 **Languages and Tools:** 
 
 <p>
-  <a href="https://github.com/onimur/handle-path-oz">
+  <a href="https://github.com/EliasOPrado/handle-path-oz">
     <img width="55%" align="right" alt="EliasOPrado github stats" src="https://github-readme-stats.vercel.app/api?username=EliasOPrados&how_icons=true&hide_border=true" />
   </a>
 

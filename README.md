@@ -21,7 +21,7 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 Code Institute Diploma;
-- 🌱 I’m currently learning React.js and Django; 
+- :reactjs: I’m currently learning React.js; 
 - 🌎 🌍 Looking for a remote job. 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: eliaspradoprofessional@outlook.com;

@@ -22,7 +22,7 @@ You can use the website to generate badges: https://shields.io/
 
 - ⭕ 👨🏽‍💻 Code Institute Diploma;
 -  ⚛️ I’m currently learning React.js; 
-- 🌎 🌍 Looking for a remote job. 
+- Workin at D3.do; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: eliaspradoprofessional@outlook.com;
 

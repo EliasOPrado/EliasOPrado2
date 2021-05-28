@@ -29,8 +29,8 @@ You can use the website to generate badges: https://shields.io/
 **Languages and Tools:** 
 
 <p>
-    <img width="55%" align="right" alt="EliasOPrado's github stats" src="https://raw.githubusercontent.com/mattn/vim-starwars/master/screenshot.gif" />
+    <!--<img width="55%" align="right" alt="EliasOPrado's github stats" src="https://raw.githubusercontent.com/mattn/vim-starwars/master/screenshot.gif" /> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliasOPrado&layout=compact)](https://github.com/EliasOPrado/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliasOPrado&layout=compact)](https://github.com/EliasOPrado/github-readme-stats) -->
 
 </p>

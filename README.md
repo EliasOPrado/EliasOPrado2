@@ -16,9 +16,10 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
-
+<p>
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/mattn/vim-starwars/master/screenshot.gif" />
+    </p>
 
 - ⭕ 👨🏽‍💻 Code Institute Diploma;
 - 💻 Working at Samplemed; 

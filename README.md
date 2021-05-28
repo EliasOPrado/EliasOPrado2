@@ -29,8 +29,6 @@ You can use the website to generate badges: https://shields.io/
 **Languages and Tools:** 
 
 <p>
-    <img width="55%" align="right" alt="EliasOPrado's github stats" src="https://raw.githubusercontent.com/mattn/vim-starwars/master/screenshot.gif" />
-
-
+    
 
 </p>

@@ -20,10 +20,10 @@ You can use the website to generate badges: https://shields.io/
 <img width="60%" align="center" alt="Github" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" />
 
 
-- ⭕ 👨🏽‍💻 Code Institute Diploma;
+<!-- - ⭕ 👨🏽‍💻 Code Institute Diploma;
 - 💻 Working at Samplemed; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [eliasprado.com](https://eliasprado.com)
+- 📫 How to reach me: [eliasprado.com](https://eliasprado.com) -->
 
 
 

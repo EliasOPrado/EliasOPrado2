@@ -17,7 +17,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://cdn.dribbble.com/users/1294594/screenshots/5460287/campan2.gif" />
 
 
 - ⭕ 👨🏽‍💻 Code Institute Diploma;

@@ -17,7 +17,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 <!-- Any image aligned to the right. Beware the width -->
-<img width="60%" align="center" alt="Github" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" />
+<img width="90%" align="center" alt="Github" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" />
 
 
 <!-- - ⭕ 👨🏽‍💻 Code Institute Diploma;
@@ -25,12 +25,12 @@ You can use the website to generate badges: https://shields.io/
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [eliasprado.com](https://eliasprado.com) -->
 
-
+   **Languages and Tools:** 
 
 </br>
 
 <p>
-    **Languages and Tools:** 
+ 
     <img width="50%" align="right" alt="EliasOPrado's github stats:" src="https://github-readme-stats.vercel.app/api?username=EliasOPrado&how_icons=true&hide_border=true" />
     
 

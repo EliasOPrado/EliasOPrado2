@@ -27,6 +27,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 **Languages and Tools:** 
+</br>
 
 <p>
     <img width="50%" align="right" alt="EliasOPrado's github stats:" src="https://github-readme-stats.vercel.app/api?username=EliasOPrado&how_icons=true&hide_border=true" />

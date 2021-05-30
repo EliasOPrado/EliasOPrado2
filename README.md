@@ -17,7 +17,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 <!-- Any image aligned to the right. Beware the width -->
-<img width="50%" align="right" alt="Github" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" />
+<img width="60%" align="right" alt="Github" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" />
 
 
 - ⭕ 👨🏽‍💻 Code Institute Diploma;
@@ -31,7 +31,7 @@ You can use the website to generate badges: https://shields.io/
 <p>
     <img width="50%" align="right" alt="EliasOPrado's github stats:" src="https://github-readme-stats.vercel.app/api?username=EliasOPrado&how_icons=true&hide_border=true" />
     
-    <img width="50%" align="right" alt="Top languages:" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasOPrado&layout=compact" />
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliasOPrado&layout=compact)](https://github.com/EliasOPrado/github-readme-stats)-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliasOPrado&layout=compact)](https://github.com/EliasOPrado/github-readme-stats)
 
 </p>

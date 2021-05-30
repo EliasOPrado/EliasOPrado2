@@ -4,7 +4,6 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-
 <!-- [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/EliasOPrado) -->
 [![Twitter](https://img.shields.io/badge/-Twitter-00b8d4?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/_0liver_Prad0)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elias-oliveira-prado-48725297/)
@@ -17,20 +16,17 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 <!-- Any image aligned to the right. Beware the width -->
-<img width="50%" align="left" alt="Github" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" />
+<img width="48%" align="right" alt="Github" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" />
+<br />
 
-
-<!-- - ⭕ 👨🏽‍💻 Code Institute Diploma;
+- ⭕ 👨🏽‍💻 Code Institute Diploma;
 - 💻 Working at Samplemed; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [eliasprado.com](https://eliasprado.com) -->
+- 📫 How to reach me: [eliasprado.com](https://eliasprado.com)
 
    **Languages and Tools:** 
 
-</br>
-
 <p>
- 
     <img width="50%" align="right" alt="EliasOPrado's github stats:" src="https://github-readme-stats.vercel.app/api?username=EliasOPrado&how_icons=true&hide_border=true" />
     
 
